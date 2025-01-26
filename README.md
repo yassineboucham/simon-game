@@ -1,4 +1,7 @@
 # Simon Game
+## Test the Game
+You can test the Simon Game by visiting the following link:
+[Play Simon Game](https://yassineboucham.github.io/simon-game/)
 
 ## Project Overview
 The Simon Game is a classic memory game that challenges players to repeat a sequence of colors and sounds. The game consists of a series of lights and sounds that the player must memorize and replicate. It is built using HTML, CSS, JavaScript, and jQuery.
